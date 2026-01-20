@@ -2,9 +2,7 @@
 
 ## Last Updated: January 20, 2026
 
-Thank you for using the __SZ EZ-Vote__ Chrome extension ("the Extension"). We respect your privacy and are committed to protecting it. This Privacy Policy explains how we collect, use, and handle information when you use our Extension.
-
-We are committed to protecting your privacy. This policy is designed to be transparent about the limited data we collect, which is strictly for the purpose of maintaining and improving the Extension's functionality.
+Thank you for using the __SZ EZ-Vote__ Chrome extension ("the Extension"). We respect your privacy and are committed to protecting it. This policy is designed to be transparent about the limited data we collect, which is strictly for the purpose of maintaining and improving the Extension's functionality.
 
 ### 1. Information We Collect
 
